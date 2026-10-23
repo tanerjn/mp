@@ -2,9 +2,9 @@
 import numpy as np
 
 from scipy.optimize import minimize
-from config import (T_BURN, PLANNING_SEPARATION, MAX_DELTA_V)
+from maneuver_planning.scenarios.leo_500km import (T_BURN, PLANNING_SEPARATION, MAX_DELTA_V)
 
-from dynamics import trajectory_maps
+from maneuver_planning.dynamics import trajectory_maps
 
 
 def optimize_burn(times, A, x0):
