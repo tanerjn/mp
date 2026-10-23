@@ -3,5 +3,4 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .DS_Store
-results/**/*.npz
 results/**/*_test.txt
