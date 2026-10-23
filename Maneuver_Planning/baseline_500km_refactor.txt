@@ -1,0 +1,11 @@
+500 km baseline: full-order classical planner
+Burn epoch [s]: 300.0
+Delta_v radial [m/s]: 0.060796993135957156
+Delta_v along-track [m/s]: 0.054410781993486708
+Delta_v normal [m/s]: 2.3961650244093654e-09
+Delta-v magnitude [m/s]: 0.081589261373763919
+Iterations: 12
+Nominal minimal separation [m]: 10
+Nominal minimal separation time [s]: 1200
+Maneuvered minimal separation [m]: 104.88277956817883
+Maneuvered minimal separation time [s]: 1215
